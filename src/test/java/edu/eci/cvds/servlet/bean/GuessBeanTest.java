@@ -29,7 +29,7 @@
 *
 *
 ****************************************************************/ 
-package edu.eci.cvds.tdd;;
+package edu.eci.cvds.servlet;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
