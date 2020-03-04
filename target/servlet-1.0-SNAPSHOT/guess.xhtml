@@ -10,7 +10,7 @@
 	<header id="cabecera">This is GuessBean!</header>
 	<h:form id="guess_form">
 	<p:outputLabel value="#{GuessBean.numberToGuess}" style="display:none" />
-	<p:inputText  id= "playerNumber" type="int" binding="#{input}" >
+	<p:inputText  id= "playerNumber" type="int" binding="#{input}">
 		<f:validateLongRange  minimum="0" maximum="100" />
 	</p:inputText> 
 	<br> <p:outputLabel class="estado" value="#{guessBean.estado}" /></br>

@@ -19,3 +19,9 @@ body{
 #p{
 	font: italic bold Arial;
 }
+
+#centrar{
+	margin: 15px auto;
+	padding: 15px auto;
+}
+	
