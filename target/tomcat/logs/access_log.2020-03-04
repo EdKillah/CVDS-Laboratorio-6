@@ -1,6 +1,0 @@
-0:0:0:0:0:0:0:1 - - [04/Mar/2020:14:37:57 -0500] "GET /faces/guess.xhtml HTTP/1.1" 404 949 http-bio-8080-exec-1 24
-0:0:0:0:0:0:0:1 - - [04/Mar/2020:14:37:57 -0500] "GET /faces/guess.xhtml HTTP/1.1" 404 949 http-bio-8080-exec-3 4
-0:0:0:0:0:0:0:1 - - [04/Mar/2020:14:37:58 -0500] "GET /faces/guess.xhtml HTTP/1.1" 404 949 http-bio-8080-exec-4 2
-0:0:0:0:0:0:0:1 - - [04/Mar/2020:14:37:58 -0500] "GET /faces/guess.xhtml HTTP/1.1" 404 949 http-bio-8080-exec-5 3
-0:0:0:0:0:0:0:1 - - [04/Mar/2020:15:07:09 -0500] "GET /faces/guess.xhtml HTTP/1.1" 200 4061 http-bio-8080-exec-1 513
-0:0:0:0:0:0:0:1 - - [04/Mar/2020:15:07:09 -0500] "GET /faces/estilo.css HTTP/1.1" 304 - http-bio-8080-exec-3 9
